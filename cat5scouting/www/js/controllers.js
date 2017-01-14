@@ -30,7 +30,7 @@ angular.module('cat5scouting.controllers', ['ngCordova'])
 
   /*
     Pull matches out of the database. They are not dependent on other values,
-    so there is no need to wrap them in a function
+    so there is no need to wrap them in a function nice comment 
   */
   Match.all().then(function(matches) {
     $scope.matches = matches;
