@@ -4,7 +4,7 @@ textarea {
     border-width: 1px;
 }
 .row-yellow {
-	background: rgba(255,255,0,0.4); /* green */
+	background: rgba(255,0,0,1); /* red */
 }
 .row-green {
 	background: rgba(0,255,0,0.4); /* green */
